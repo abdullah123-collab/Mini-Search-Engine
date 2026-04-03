@@ -122,7 +122,6 @@ Enter word to search: learning
 ## 👤 Author
 
 **Abdullah** — BSCS Student, SZABIST University  
-📅 Semester 4 — Data Structures & Algorithms Project
 
 ---
 
