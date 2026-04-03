@@ -1,0 +1,23 @@
+# Sample Documents — Mini Search Engine Dataset
+
+These are the 5 predefined documents used to build the search index.
+Each line follows the format:  filename: word1 word2 word3 ...
+
+file1.txt: artificial intelligence and machine learning
+file2.txt: data structures and algorithms
+file3.txt: deep learning uses neural networks
+file4.txt: queue stack and linked list in dsa
+file5.txt: binary tree and search engine project
+
+---
+
+# Words you can search to test the engine:
+
+- learning       → appears in file1.txt, file3.txt
+- and            → appears in file1.txt, file2.txt, file4.txt, file5.txt
+- data           → appears in file2.txt
+- stack          → appears in file4.txt
+- binary         → appears in file5.txt
+- neural         → appears in file3.txt
+- machine        → appears in file1.txt
+- dsa            → appears in file4.txt
