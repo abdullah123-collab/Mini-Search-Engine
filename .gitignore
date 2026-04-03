@@ -1,0 +1,39 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+search_engine
+a.out
+
+# IDE files - Code::Blocks
+*.cbp
+*.layout
+*.depend
+*.cbTemp
+
+# IDE files - Dev-C++
+*.dev
+
+# IDE files - Visual Studio / VS Code
+.vscode/
+*.vcxproj
+*.sln
+*.suo
+*.user
+.vs/
+
+# IDE files - CLion
+.idea/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp / debug
+*.log
+*.tmp
